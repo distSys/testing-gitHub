@@ -1,4 +1,4 @@
 testing-gitHub
 ==============
 
-testing a git hub ripo
+testing a git hub repo
